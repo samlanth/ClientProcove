@@ -1,0 +1,3 @@
+Go to path : ClientProcove > out > artifacts > ClientProcove
+Write in cmd : java -jar ClientProcove.jar
+The program should open.
